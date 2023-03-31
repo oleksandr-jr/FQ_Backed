@@ -11,10 +11,10 @@
     </parent>
 
 
-    <groupId>com.in28minutes.fullstack.springboot.maven.crud</groupId>
-    <artifactId>spring-boot-fullstack-crud-full-stack-with-maven</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-fullstack-crud-full-stack-with-maven</name>
+    <groupId>org.javarush.oleksandr</groupId>
+    <artifactId>spring-boot-app</artifactId>
+    <version>1.0.0</version>
+    <name>spring-boot-app</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

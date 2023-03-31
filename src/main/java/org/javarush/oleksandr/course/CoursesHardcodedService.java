@@ -1,4 +1,4 @@
-package org.example.course;
+package org.javarush.oleksandr.course;
 
 import java.util.ArrayList;
 import java.util.List;

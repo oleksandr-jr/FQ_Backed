@@ -1,4 +1,4 @@
-package org.example.course;
+package org.javarush.oleksandr.course;
 
 public class Course {
 	private Long id;

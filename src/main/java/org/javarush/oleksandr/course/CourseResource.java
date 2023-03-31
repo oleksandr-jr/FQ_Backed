@@ -1,4 +1,4 @@
-package org.example.course;
+package org.javarush.oleksandr.course;
 
 import java.net.URI;
 import java.util.List;
